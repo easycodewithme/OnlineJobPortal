@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <?php 
+//little edit in code
 include 'constants/settings.php'; 
 include 'constants/check-login.php';
 ?>
