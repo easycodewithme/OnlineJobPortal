@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <?php 
+//this is pulse
 require 'constants/settings.php'; 
 require 'constants/check-login.php';
 $fromsearch = false;
